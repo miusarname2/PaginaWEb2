@@ -1,4 +1,4 @@
-# Dynamic Web Project
+# PaginaWEb2
 ## English
 
 This web project, created with HTML, CSS, and JavaScript, represents my foray into more dynamic projects. Although basic, it symbolizes my progress in integrating interactivity into web development. 🌐💻 #DynamicWebProject
@@ -25,7 +25,7 @@ Simply open the HTML files in your browser.
 
 ### Screenshots
 
-![App Screenshot](https://github.com/miusarname/assets/blob/main/screenshot.png?raw=true)
+![App Screenshot](https://github.com/miusarname/assets/blob/main/Screenshot%202024-01-20%20153300.png)
 
 ### Technologies
 
@@ -125,7 +125,7 @@ cd PaginaWEb2
 
 ### 截图
 
-![App Screenshot](https://github.com/miusarname/assets/blob/main/screenshot.png?raw=true)
+![App Screenshot](https://github.com/miusarname/assets/blob/main/Screenshot%202024-01-20%20153300.png)
 
 ### 技术
 
@@ -225,7 +225,7 @@ cd PaginaWEb2
 
 ### スクリーンショット
 
-![App Screenshot](https://github.com/miusarname/assets/blob/main/screenshot.png?raw=true)
+![App Screenshot](https://github.com/miusarname/assets/blob/main/Screenshot%202024-01-20%20153300.png)
 
 ### 技術
 
